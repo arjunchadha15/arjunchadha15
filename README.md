@@ -24,10 +24,6 @@ A gamified fitness app for college students, designed around behavioral psycholo
 477 real App Store rejections scraped from Reddit, Hacker News, and developer blogs, then labeled with the Claude API to find which rules trip developers up most.
 `Python` `pandas` `BeautifulSoup` `Claude API`
 
-### [Soul](https://github.com/arjunchadha15/Soul) · iOS
-A private social network built around projects instead of posts, where your profile is a tree that grows a branch for every project.
-`SwiftUI` `Supabase`
-
 ## Toolkit
 
 **Data:** SQL, Python, DAX, Power BI, Redshift, Dataiku, Excel
